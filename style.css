@@ -1,0 +1,28 @@
+body{
+    font-family: 'Rubik Gemstones', cursive;
+    background-color: #228B22;
+    color: ghostwhite;
+}
+.h{
+    background-color: #191970;
+}
+.h p{
+    color: #DEB887;
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+button{
+    background-color: #1E90FF;
+    font-size: 25px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 9px 9px 9px #1E90FF;
+}
